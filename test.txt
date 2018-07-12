@@ -1,0 +1,1 @@
+This file is used to tset if git can work well or not.
